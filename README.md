@@ -51,8 +51,8 @@
   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Python](https://img.shields.io/badge/-Python-F5DC67?style=plastic&logo=python)
-[GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=plastic&logo=gdscript)
-<!--   ![C++](https://img.shields.io/badge/-C++-005697?style=plastic&logo=C%2B%2B) -->
+  ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=plastic&logo=gdscript)
+  ![C++](https://img.shields.io/badge/-C++-005697?style=plastic&logo=C%2B%2B)
 <!--   ![Rust](https://img.shields.io/badge/-rust-C8352A?style=plastic&logo=rust) -->
 <!-- - ![Technical Skills](https://img.shields.io/badge/-Technical_Skills-0d1117?style=for-the-badge)
   <br />
@@ -74,7 +74,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-3281B6?style=plastic&logo=visualstudio)
   ![Atom](https://img.shields.io/badge/-Atom-97C98F?style=plastic&logo=atom)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-B5E759?style=plastic&logo=pycharm)
-[Godot Game Engine](https://img.shields.io/badge/-Godot-478CBF?style=plastic&logo=pycharm)
+  ![Godot Game Engine](https://img.shields.io/badge/-Godot-478CBF?style=plastic&logo=pycharm)
 - ![Operating Systems](https://img.shields.io/badge/-Operating_Systems-0d1117?style=for-the-badge)
   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
