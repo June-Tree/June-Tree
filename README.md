@@ -26,6 +26,7 @@
 <!-- - 🤔 &nbsp; Learning new technologies and trying to develop software solutions. -->
 
 ### 🛠 &nbsp;Tech Stack and more
+- ![Web Development](https://img.shields.io/badge/-Web_Developement-0d1117?style=for-the-badge)
   <br />
   &nbsp;&nbsp;![Vanilla](https://img.shields.io/badge/-Vanilla:-0d1117?style=flat-square)
   <br />
