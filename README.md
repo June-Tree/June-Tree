@@ -1,5 +1,5 @@
 # <p align="center">I'm Sonia</p>
-### <p align="center">Welcome to my Github!</p>
+### <p align="center">Welcome to my GitHub!</p>
 
 <!-- ### <p align="center">My latest projects</p>
 <p align="center">
@@ -13,7 +13,7 @@
 
 #### I’m currently...
 - Working on some personal projects
-- Looking to collaborate on web development projects
+- Looking to collaborate on 3D and game dev projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💬 Ask me about anything -->
