@@ -87,7 +87,7 @@
 
 <p align="center">
 <!--   <a href="https://www./"><img src="https://img.icons8.com/dotty/40/FD428E/web.png" alt="Website"></a> -->
-  <a href="mailto:soniaonyeukwu@zohomail.com"><img src="https://img.icons8.com/metro/40/FD428E/new-post.png" alt="Email" /></a>
+<!--   <a href="mailto:soniaonyeukwu@zohomail.com"><img src="https://img.icons8.com/metro/40/FD428E/new-post.png" alt="Email" /></a> -->
 <!--   <img src="https://img.icons8.com/ios-filled/40/000000/thick-vertical-line.png"/> -->
 <!--   <a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/fluency/40/FD428E/linkedin.png" alt="LinkedIn"></a> -->
 </p>
