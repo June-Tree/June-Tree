@@ -1,31 +1,5 @@
-# <p align="center">I'm Sonia</p>
-### <p align="center">Welcome to my GitHub!</p>
-
-<!-- ### <p align="center">My latest projects</p>
-<p align="center">
-  <a href="https://github.com/WEGFan/codestats-profile-readme">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=" alt="" />Write the repositories name as is for both "repo" and "alt"
-  </a>
-  <a href="https://github.com/WEGFan/codestats-profile-readme">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=" alt="" />
-  </a>
-</p> -->
-
-#### I’m currently...
-- Working on some personal projects (my first video game)
-- Looking to collaborate on 3D and game dev projects
-<!-- - I’m looking for help with ... -->
-<!-- - I’m currently learning ... -->
-<!-- - Ask me about anything -->
-<!-- - How to reach me: ... -->
-<!-- - Fun fact: ... -->
-
-<!-- ### 👨🏻‍💻 &nbsp;About Me -->
-<!-- - &nbsp; Studying Computer Science and Mathematics at University of .... -->
-<!-- - &nbsp; Learning more about ... -->
-<!-- - &nbsp; Learning new technologies and trying to develop software solutions. -->
-
-<!-- https://simpleicons.org/ -->
+# <p align="center">Welcome!</p>
+<!-- ### <p align="center">...to my GitHub!</p> -->
 
 ### 🛠 &nbsp;Tech Stack and more
 - ![Languages](https://img.shields.io/badge/Languages-0d1117?style=for-the-badge)
@@ -81,6 +55,32 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonia-c-o&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 <br />
 ![Overall GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonia-c-o&show_icons=true&theme=onedark&line_height=27&v=57title_color=fff&icon_color=FFD700&text_color=ECECEC")](https://github.com/Neel2904) -->
+
+<!-- ### <p align="center">My latest projects</p>
+<p align="center">
+  <a href="https://github.com/WEGFan/codestats-profile-readme">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=" alt="" />Write the repositories name as is for both "repo" and "alt"
+  </a>
+  <a href="https://github.com/WEGFan/codestats-profile-readme">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=" alt="" />
+  </a>
+</p> -->
+
+#### I’m currently...
+- Working on some personal projects (my first video game)
+- Looking to collaborate on 3D and game dev projects
+<!-- - I’m looking for help with ... -->
+<!-- - I’m currently learning ... -->
+<!-- - Ask me about anything -->
+<!-- - How to reach me: ... -->
+<!-- - Fun fact: ... -->
+
+<!-- ### 👨🏻‍💻 &nbsp;About Me -->
+<!-- - &nbsp; Studying Computer Science and Mathematics at University of .... -->
+<!-- - &nbsp; Learning more about ... -->
+<!-- - &nbsp; Learning new technologies and trying to develop software solutions. -->
+
+<!-- https://simpleicons.org/ -->
 
 <p align="center">
 <!--   <a href="https://www./"><img src="https://img.icons8.com/dotty/40/FD428E/web.png" alt="Website"></a> -->
