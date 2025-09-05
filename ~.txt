@@ -1,0 +1,81 @@
+<!-- ### <p align="center">My latest projects</p>
+<p align="center">
+  <a href="https://github.com/WEGFan/codestats-profile-readme">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=" alt="" />Write the repositories name as is for both "repo" and "alt"
+  </a>
+  <a href="https://github.com/WEGFan/codestats-profile-readme">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=" alt="" />
+  </a>
+</p> -->
+
+
+
+<!-- - I’m looking for help with ... -->
+<!-- - I’m currently learning ... -->
+<!-- - Ask me about anything -->
+<!-- - How to reach me: ... -->
+<!-- - Fun fact: ... -->
+
+<!-- ### 👨🏻‍💻 &nbsp;About Me -->
+<!-- - &nbsp; Studying Computer Science and Mathematics at University of .... -->
+<!-- - &nbsp; Learning more about ... -->
+<!-- - &nbsp; Learning new technologies and trying to develop software solutions. -->
+
+
+
+| S/N | Project Name | Description | Link | Language(s) | Tools |
+| :-- | :----------: | :---------: | :--: | :---------: | ----: |
+| 1 | ... | ... | ... | ... | ... |
+| 2 | ... | ... | ... | ... | ... |
+
+
+
+<!-- https://simpleicons.org/ -->
+
+#333333
+#36454F
+#2F4F4F
+#004D4D
+#0076B8
+#1E90FF
+#4B0082
+#228B22
+#654321
+
+
+<!-- ![Atom](https://img.shields.io/badge/Atom-97C98F?style=flat&logo=atom) -->
+
+<!-- - ![Technical Skills](https://img.shields.io/badge/Technical_Skills-0d1117?style=for-the-badge)
+  \
+  &nbsp;&nbsp;&nbsp;&nbsp; -->
+<!--   ![Computer Networking](https://img.shields.io/badge/Computer_Networking-F70000?style=flat) -->
+<!--   ![Web Security](https://img.shields.io/badge/Web_Security-F70000?style=flat) -->
+<!--   ![HTTP and REST](https://img.shields.io/badge/HTTP_and_REST-F70000?style=flat) -->
+
+
+
+<p align="center">
+<a href="https://www./"><img src="https://img.icons8.com/dotty/30/FD428E/web.png" alt="Website"></a>
+<a href="mailto:soniaonyeukwu@zohomail.com"><img src="https://img.icons8.com/?size=30&id=12623&format=png&color=000000" alt="Email" /></a>
+<span style="font-size:2em;">|</span>
+<a href="https://www."><img src="https://img.icons8.com/?size=30&id=19318&format=png&color=000000" alt="YouTube"></a>
+<a href="https://www."><img src="https://img.icons8.com/?size=30&id=fJp7hepMryiw&format=png&color=000000" alt="X"></a>
+<a href="https://www."><img src="https://img.icons8.com/?size=30&id=12518&format=png&color=000000" alt="Reddit"></a>
+<a href="https://www.linkedin.com/in/soniaonyeukwu"><img src="https://img.icons8.com/?size=30&id=34349&format=png&color=000000" alt="LinkedIn"></a>
+<a href="https://img.icons8.com/?size=30&id=121367&format=png&color=000000" alt="3D Assets"></a>
+</p>
+
+<a href="https://www./"><img src="https://img.icons8.com/dotty/25/FD428E/web.png" alt="Website"></a>
+<a href="mailto:soniaonyeukwu@zohomail.com"><img src="https://img.icons8.com/?size=25&id=12623&format=png&color=000000" alt="Email" /></a>
+<span style="font-size:2em;">|</span>
+<a href="https://www."><img src="https://img.icons8.com/?size=25&id=19318&format=png&color=000000" alt="YouTube"></a>
+<a href="https://www."><img src="https://img.icons8.com/?size=25&id=fJp7hepMryiw&format=png&color=000000" alt="X"></a>
+<a href="https://www."><img src="https://img.icons8.com/?size=25&id=12518&format=png&color=000000" alt="Reddit"></a>
+<a href="https://www."><img src="https://img.icons8.com/?size=25&id=tIshI0hyXw3f&format=png&color=000000" alt="Reddit"></a>
+
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-c-o&hide=html,css,javascript&theme=onedark&layout=compact)
+\
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonia-c-o&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+\
+![Overall GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonia-c-o&show_icons=true&theme=onedark&line_height=27&v=57title_color=fff&icon_color=FFD700&text_color=ECECEC")](https://github.com/Neel2904)
