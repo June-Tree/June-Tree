@@ -35,11 +35,9 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-191970?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/Python-F5DC67?style=flat&logo=python)
   ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat)
-  ![C++](https://img.shields.io/badge/C++-005697?style=flat&logo=C%2B%2B)
-  <!-- ![Rust](https://img.shields.io/badge/rust-C8352A?style=flat&logo=rust) -->
-<!--      
+  ![C++](https://img.shields.io/badge/C++-005697?style=flat&logo=C%2B%2B)     
 &nbsp;&nbsp;&nbsp;&nbsp;
-  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-c-o&hide=html,css,javascript&theme=onedark&layout=compact) -->
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-c-o&hide=html,css,javascript&theme=onedark&layout=compact)
 
 - ![Miscellaneous](https://img.shields.io/badge/Miscellaneous-0d1117?style=for-the-badge)     
 &nbsp;&nbsp;&nbsp;&nbsp;
