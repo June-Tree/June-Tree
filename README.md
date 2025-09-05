@@ -37,7 +37,7 @@
   ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat)
   ![C++](https://img.shields.io/badge/C++-005697?style=flat&logo=C%2B%2B)     
 &nbsp;&nbsp;&nbsp;&nbsp;
-  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-c-o&hide=html,css,javascript&theme=onedark&layout=compact)
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=June-Tree&hide=html,css,javascript&theme=onedark&layout=compact)
 
 - ![Miscellaneous](https://img.shields.io/badge/Miscellaneous-0d1117?style=for-the-badge)     
 &nbsp;&nbsp;&nbsp;&nbsp;
