@@ -5,8 +5,8 @@
 
 **I’m currently…**
 
-- Working on some personal projects (my first video game)
-- Looking to collaborate on 3D and game dev projects
+- Working on some personal projects
+- Looking to collaborate on 3D and game dev stuff
 
 <!-- ### <p align="center">My Projects and Repositories</p> -->
 
