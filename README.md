@@ -70,6 +70,6 @@ ___ -->
 </br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/soniaonyeukwu"><img src="https://img.icons8.com/?size=25&id=34349&format=png&color=000000" alt="LinkedIn"></a>
 <a href="https://stonara3d.gumroad.com/"><img src="https://img.icons8.com/?size=25&id=121367&format=png&color=000000" alt="Asset store"></a>
+<a href="https://www.linkedin.com/in/soniaonyeukwu"><img src="https://img.icons8.com/?size=25&id=34349&format=png&color=000000" alt="LinkedIn"></a>
 </p>
