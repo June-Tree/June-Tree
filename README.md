@@ -23,37 +23,39 @@
   
 </div>
 
+___
+
 ### 💻 What I'm up to
 
 <!-- #### I'm…
 -  -->
 
-<div align="center">
+#### Currently…
+
+- Working on some personal projects  
+  <!-- [![](https://svg.bookmark.style/api?url=_&mode=light&style=horizontal)]() -->
+  [![Godot source code obfuscator](https://svg.bookmark.style/api?url=https://github.com/June-Tree/Godot-Source-Code-Obfuscator&mode=light&style=horizontal)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator)
+  [![Geometry node-based callout text generator](https://svg.bookmark.style/api?url=https://stonara3d.gumroad.com/l/callout_generator&mode=dark&style=horizontal)](https://stonara3d.gumroad.com/l/callout_generator)
+- Familiarising myself with the Godot game engine
+- Looking to collaborate on 3D and game dev projects  
+
+___
+
 <div style="display: inline-flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: top; width: 100%;">
   <div style="flex: 1; text-align: left; margin-right: 10px;">
 
-  #### Currently…
+  ### 💼 Projects and Repositories
 
-  - Working on some personal projects  
-    <!-- [![](https://svg.bookmark.style/api?url=_&mode=light&style=horizontal)]() -->
-    [![Godot source code obfuscator](https://svg.bookmark.style/api?url=https://github.com/June-Tree/Godot-Source-Code-Obfuscator&mode=light&style=horizontal)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator)
-    [![Geometry node-based callout text generator](https://svg.bookmark.style/api?url=https://stonara3d.gumroad.com/l/callout_generator&mode=dark&style=horizontal)](https://stonara3d.gumroad.com/l/callout_generator)
-  - Familiarising myself with the Godot game engine
-  - Looking to collaborate on 3D and game dev projects  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>(in no particlular order)</sub>
   </div>
   
-  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 30%; max-width: 200px; display: block; margin: auto;"/>
+  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 0px; flex: 1; text-align: right; height: 100%; width: 30%; max-width: 80px; display: block; margin: auto;"/>
   <!-- 175px -->
   <!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 50%; max-width: 300px; display: block; margin: auto;"/> -->
   <!-- padding-top: 60px; -->
 </div>
-</div>
 
-<!-- ___ -->
 
-### 💼 Projects and Repositories
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>(in no particlular order)</sub>
 
 | S/N | Project Name | Description | Link | Language(s) | Applicable software |
 | :-: | :----------- | :---------- | :--: | :---------: | :-----------------: |
@@ -130,6 +132,8 @@ ___
   ![Windows](https://img.shields.io/badge/Windows-357EC7?style=flat-square&labelColor=357EC7&color=0d1117)
   ![Linux](https://img.shields.io/badge/Linux-000080?style=flat-square&logo=linux&labelColor=ddd&logoColor=000&color=0d1117)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-000080?style=flat-square&logo=ubuntu&labelColor=003B5C&logoColor=E95420&color=0d1117)
+
+___
 
 <h3>
 <details> <!-- open -->
