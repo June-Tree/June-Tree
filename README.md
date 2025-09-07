@@ -84,7 +84,7 @@ ___
   ![C++](https://img.shields.io/badge/C++-005697?style=flat-square&logo=C%2B%2B&labelColor=333&logoColor=5599ff&color=0d1117)
   <!-- ![Rust](https://img.shields.io/badge/rust-CE422B?style=flat-square&logo=rust&labelColor=281C1C&logoColor=CE422B&color=0d1117) -->
 &nbsp;
-  <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=June-Tree&hide=html,css,javascript&theme=transparent&layout=compact&hide_border=true" alt="GitHub Stats">
+  <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=June-Tree&hide=html,css,javascript&theme=transparent&layout=compact&hide_border=true" alt="Most Used GitHub Languages">
   
   #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15px">&nbsp;&nbsp;Frameworks
 
@@ -99,7 +99,7 @@ ___
   ![Computer Networking](https://img.shields.io/badge/Computer_Networking-0d1117?style=flat-square)
   ![Web Security](https://img.shields.io/badge/Web_Security-0d1117?style=flat-square) -->
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="15px" alt="GitHub-Status"/>&nbsp;&nbsp;Software and Tools
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="15px"/>&nbsp;&nbsp;Software and Tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-0076B8?style=flat-square&labelColor=0076B8&color=0d1117)
@@ -128,7 +128,7 @@ ___
 
 <h3>
 <details> <!-- open -->
-    <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats</summary>
+    <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="pointer-events: none; user-select: none;"> GitHub Stats</summary>
     <div align="center">
       <img width="100%" style="max-height: 300px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=June-Tree&theme=transparent" alt="GitHub Summary Card">
       <img align="center" width="47.25%" style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=June-Tree&theme=transparent&hide_border=true&show_icons=false&rank_icon=percentile&include_all_commits=true&count_private=true&cache_seconds=3200" alt="GitHub Stats">
