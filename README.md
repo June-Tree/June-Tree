@@ -32,7 +32,7 @@
   #### Currently…
 
   - Working on some personal projects
-  - Learning the Godot game engine
+  - Familiarising myself with the Godot game engine
   - Looking to collaborate on 3D and game dev projects  
   </div>
   
