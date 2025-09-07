@@ -128,7 +128,7 @@ ___
 
 <h3>
 <details> <!-- open -->
-    <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="pointer-events: none; user-select: none;"> GitHub Stats</summary>
+    <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats</summary>
     <div align="center">
       <img width="100%" style="max-height: 300px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=June-Tree&theme=transparent" alt="GitHub Summary Card">
       <img align="center" width="47.25%" style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=June-Tree&theme=transparent&hide_border=true&show_icons=false&rank_icon=percentile&include_all_commits=true&count_private=true&cache_seconds=3200" alt="GitHub Stats">
