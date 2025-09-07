@@ -6,11 +6,11 @@
 <a href="https://github.com/June-Tree" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=June-Tree&style=for-the-badge&label=PROFILE+VIEWS" height="20" alt="views count" /></a>
 </div> -->
 
-## <div align="center">Hello!&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+### <div align="center">Hello!&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
 
 <div align="center">
 
-  ![Bio](https://readme-typing-svg.demolab.com?font=Mona+Sans&color=fff&background=00000000&multiline=false&repeat=true&size=17&duration=2500&pause=300&center=true&vCenter=true&width=600&height=50&lines=I'm+a…;3D+Designer;Programmer;Aspiring+Game+Developer;I'd+love+to+work+with+you.;+Feel+free+to+look+around+though+😉;&hearts;)
+  ![Bio](https://readme-typing-svg.demolab.com?font=Mona+Sans&color=fff&background=00000000&multiline=false&repeat=true&size=17&duration=2500&pause=300&center=true&vCenter=true&width=600&height=50&lines=I'm+a…;3D+Designer;Programmer;Aspiring+Game+Developer;I'd+love+to+work+with+you.;+Feel+free+to+look+around+though+😉;♥;)
 
 </div>
 
@@ -34,8 +34,8 @@ ___
 
 - Working on some personal projects  
   <!-- [![](https://svg.bookmark.style/api?url=_&mode=light&style=horizontal)]() -->
-  [![Godot source code obfuscator](https://svg.bookmark.style/api?url=https://github.com/June-Tree/Godot-Source-Code-Obfuscator&mode=light&style=horizontal)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator)
-  [![Geometry node-based callout text generator](https://svg.bookmark.style/api?url=https://stonara3d.gumroad.com/l/callout_generator&mode=dark&style=horizontal)](https://stonara3d.gumroad.com/l/callout_generator)
+  [![Godot source code obfuscator](https://svg.bookmark.style/api?url=https://github.com/June-Tree/Godot-Source-Code-Obfuscator&mode=dark&style=horizontal)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator)
+  <!-- [![Geometry node-based callout text generator](https://svg.bookmark.style/api?url=https://stonara3d.gumroad.com/l/callout_generator&mode=dark&style=horizontal)](https://stonara3d.gumroad.com/l/callout_generator) -->
 - Familiarising myself with the Godot game engine
 - Looking to collaborate on 3D and game dev projects  
 
@@ -49,7 +49,7 @@ ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>(in no particlular order)</sub>
   </div>
   
-  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 0px; flex: 1; text-align: right; height: 100%; width: 30%; max-width: 80px;"/>
+  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 0px; flex: 1; height: 100%; width: 30%; max-width: 80px;"/>
   <!-- 175px -->
   <!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 50%; max-width: 300px; display: block; margin: auto;"/> -->
   <!-- padding-top: 60px; -->
