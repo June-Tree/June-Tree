@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
+<img width="100%" height="80" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
 </div>
 
 <!-- <div align="right">
@@ -123,7 +123,7 @@ ___
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-000080?style=flat-square&logo=ubuntu&labelColor=003B5C&logoColor=E95420&color=0d1117)
 
 <h3>
-<details>
+<details> <!-- open -->
     <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats</summary>
     <div align="center">
       <img width="100%" style="max-height: 300px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=June-Tree&theme=transparent" alt="GitHub Summary Card">
@@ -137,5 +137,5 @@ ___
 </h3>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img width="100%" height="80" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
