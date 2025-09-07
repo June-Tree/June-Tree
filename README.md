@@ -49,7 +49,7 @@ ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>(in no particlular order)</sub>
   </div>
   
-  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 0px; flex: 1; text-align: right; height: 100%; width: 30%; max-width: 80px; display: block; margin: auto;"/>
+  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 0px; flex: 1; text-align: right; height: 100%; width: 30%; max-width: 80px;"/>
   <!-- 175px -->
   <!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 50%; max-width: 300px; display: block; margin: auto;"/> -->
   <!-- padding-top: 60px; -->
