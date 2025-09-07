@@ -9,7 +9,7 @@
 ## <div align="center">Hello!&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&color=fff&background=00000000&multiline=false&repeat=true&size=17&duration=3500&pause=300&center=true&vCenter=true&width=600&height=50&lines=I'm a…;3D Designer;Programmer;Aspiring Game Developer;I'd love to work with you.; Feel free to look around though 😉;&hearts;" alt="Bio">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&color=fff&background=00000000&multiline=false&repeat=true&size=17&duration=2500&pause=300&center=true&vCenter=true&width=600&height=50&lines=I'm a…;3D Designer;Programmer;Aspiring Game Developer;I'd love to work with you.; Feel free to look around though 😉;&hearts;" alt="Bio">
 </div>
 
 <div align="center">
@@ -131,7 +131,7 @@ ___
       <img align="center" width="52%" style="max-height: 200px;" src="http://github-readme-streak-stats.herokuapp.com?user=June-Tree&theme=transparent&hide_border=true&cache_seconds=3200&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&sideNums=DDDDDD" alt="GitHub Streak">
       <!-- <img align="center" width="49.6%" style="max-height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=June-Tree&theme=transparent&hide_border=true" alt="Top Languages by Repo" />
       <img align="center" width="49.6%" style="max-height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=June-Tree&theme=transparent&hide_border=true" alt="Top Languages by Commit" /> -->
-      <!-- <img width="99.5%" style="max-height: 100px;" src="https://  github-profile-trophy.vercel.app/?username=June-Tree&theme=radical&no-bg=true&no-frame=false&row=1&margin-w=10" alt="Trophy"> -->
+      <!-- <img width="99.5%" style="max-height: 100px;" src="https://github-profile-trophy.vercel.app/?username=June-Tree&theme=radical&no-bg=true&no-frame=false&row=1&margin-w=10" alt="Trophy"> -->
     </div>
   </details>
 </h3>
