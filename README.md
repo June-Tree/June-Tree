@@ -3,21 +3,24 @@
 </div>
 
 <!-- <div align="right">
-<a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=June-Tree&style=for-the-badge&label=PROFILE+VIEWS" height="20" alt="views count" /></a>
+<a href="https://github.com/June-Tree" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=June-Tree&style=for-the-badge&label=PROFILE+VIEWS" height="20" alt="views count" /></a>
 </div> -->
 
 ## <div align="center">Hello!&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&color=fff&background=00000000&multiline=false&repeat=true&size=17&duration=2500&pause=300&center=true&vCenter=true&width=600&height=50&lines=I'm a…;3D Designer;Programmer;Aspiring Game Developer;I'd love to work with you.; Feel free to look around though 😉;&hearts;" alt="Bio">
+
+  ![Bio](https://readme-typing-svg.demolab.com?font=Mona+Sans&color=fff&background=00000000&multiline=false&repeat=true&size=17&duration=2500&pause=300&center=true&vCenter=true&width=600&height=50&lines=I'm+a…;3D+Designer;Programmer;Aspiring+Game+Developer;I'd+love+to+work+with+you.;+Feel+free+to+look+around+though+😉;&hearts;)
+
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/soniaonyeukwu"><img src="https://img.icons8.com/?size=20&id=34349&format=png&color=ffffff" alt="LinkedIn"></a>
-<!--  -->
-<img src="https://img.icons8.com/?size=20&id=118835&format=png&color=ffffff" alt="|">
-<!--  -->
-<a href="https://stonara3d.gumroad.com/"><img src="https://img.icons8.com/?size=20&id=121367&format=png&color=ffffff" alt="Asset store"></a>
+
+  [![LinkedIn](https://img.icons8.com/?size=20&id=34349&format=png&color=ffffff)](https://www.linkedin.com/in/soniaonyeukwu)
+  ![|](https://img.icons8.com/?size=20&id=118835&format=png&color=ffffff)
+  [![Asset store](https://img.icons8.com/?size=20&id=121367&format=png&color=ffffff)](https://stonara3d.gumroad.com/)  
+  [![Other Links](https://img.icons8.com/?size=20&id=7867&format=png&color=ffffff)](https://linktr.ee/stonara)
+  
 </div>
 
 ### 💻 What I'm up to
@@ -26,20 +29,20 @@
 -  -->
 
 <div align="center">
-<div align="left" style="display: inline-flex; justify-content: space-between; align-items: top; width: 100%;">
+<div style="display: inline-flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: top; width: 100%;">
   <div style="flex: 1; text-align: left; margin-right: 10px;">
 
   #### Currently…
 
   - Working on some personal projects  
-    <!-- [![](https://svg.bookmark.style/api?url= &mode=light&style=horizontal)]() -->
-    [![Godot Source Code Obfuscator](https://svg.bookmark.style/api?url=https://github.com/June-Tree/Godot-Source-Code-Obfuscator&mode=dark&style=horizontal)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator)
-    <!-- [![](https://svg.bookmark.style/api?url= &mode=light&style=horizontal)]() -->
+    <!-- [![](https://svg.bookmark.style/api?url=_&mode=light&style=horizontal)]() -->
+    [![Godot source code obfuscator](https://svg.bookmark.style/api?url=https://github.com/June-Tree/Godot-Source-Code-Obfuscator&mode=light&style=horizontal)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator)
+    [![Geometry node-based callout text generator](https://svg.bookmark.style/api?url=https://stonara3d.gumroad.com/l/callout_generator&mode=dark&style=horizontal)](https://stonara3d.gumroad.com/l/callout_generator)
   - Familiarising myself with the Godot game engine
   - Looking to collaborate on 3D and game dev projects  
   </div>
   
-  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 50%; max-width: 200px; display: block; margin: auto;"/>
+  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 30%; max-width: 200px; display: block; margin: auto;"/>
   <!-- 175px -->
   <!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 50%; max-width: 300px; display: block; margin: auto;"/> -->
   <!-- padding-top: 60px; -->
@@ -53,11 +56,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>(in no particlular order)</sub>
 
 | S/N | Project Name | Description | Link | Language(s) | Applicable software |
-| :-- | :----------- | :---------- | :--: | :---------- | :------------------ |
-| 1 | Godot Source Code Obfuscator | A tool that transforms Godot game scripts into a less readable format to enhance security. | [![Repository directory](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator) | Python | ... |
-| 2 | Geometry Node-based Procedural 3D prop pack | A library of adjustable props for modern photography and 3D rendering. | [![Asset store](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/procedural_props) | ... | Blender |
-| 3 | Geometry Node-based Rainfall Generator | A model with adjustable parameters for non-destructive control of droplet appearance, speed, and structure. | [![Asset store](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/procedural_rainfall) | ... | Blender |
-| 4 | Geometry Node-based Rock Generator | A procedural 3D rock model with adjustable parameters for non-destructive, unique control over appearance. | [![Asset store](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/rock_generator) | ... | Blender |
+| :-: | :----------- | :---------- | :--: | :---------: | :-----------------: |
+| 1 | Godot Source Code Obfuscator | A tool that transforms Godot game scripts into a less readable format to enhance security. | [![Repository](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator) | Python | ... |
+| 2 | Geometry Node-based Procedural 3D prop pack | A library of adjustable props for modern photography and 3D rendering. | [![3D Asset](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/procedural_props) | ... | Blender |
+| 3 | Geometry Node-based Rainfall Generator | A model with adjustable parameters for non-destructive control of droplet appearance, speed, and structure. | [![3D Asset](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/procedural_rainfall) | ... | Blender |
+| 4 | Geometry Node-based Rock Generator | A procedural 3D rock model with adjustable parameters for non-destructive, unique control over appearance. | [![3D Asset](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/rock_generator) | ... | Blender |
 | 5 | My first video game (the name hasn't been decided on yet lol) | ... | ... | GDScript, C++ | ... |
 
 <!-- ### 📌 Pinned Repositories
@@ -77,7 +80,8 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![HTML](https://img.shields.io/badge/HTML5-3B2A2A?style=flat-square&logo=html5&labelColor=ddd&logoColor=F06529&color=0d1117)
   ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&labelColor=000&logoColor=fff&color=0d1117)
-  ![CSS](https://img.shields.io/badge/CSS3-0047AB?style=flat-square&logo=css&labelColor=333&logoColor=00A3E0&color=0d1117)
+  ![CSS](https://img.shields.io/badge/CSS3-0047AB?style=flat-square&logo=css&labelColor=333&logoColor=00A3E0&color=0d1117)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-191970?style=flat-square&logo=javascript&labelColor=191970&logoColor=F0DB4F&color=0d1117)
   ![Python](https://img.shields.io/badge/Python-F5DC67?style=flat-square&logo=python&labelColor=F5DC67&logoColor=4B8BBE&color=0d1117)
   ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&labelColor=478CBF&color=0d1117)
@@ -105,7 +109,8 @@ ___
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-0076B8?style=flat-square&labelColor=0076B8&color=0d1117)
   ![PyCharm](https://img.shields.io/badge/PyCharm-B5E759?style=flat-square&logo=pycharm&labelColor=4B8BBE&logoColor=000&color=0d1117)
   ![Gimp](https://img.shields.io/badge/Gimp-3E2723?style=flat-square&logo=gimp&labelColor=3E2723&logoColor=fff&color=0d1117)
-  ![Inkscape](https://img.shields.io/badge/Inkscape-222?style=flat-square&logo=inkscape&labelColor=222&logoColor=fff&color=0d1117)
+  ![Inkscape](https://img.shields.io/badge/Inkscape-222?style=flat-square&logo=inkscape&labelColor=222&logoColor=fff&color=0d1117)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Krita](https://img.shields.io/badge/Krita-191970?style=flat-square&logo=krita&labelColor=A77BCA&logoColor=005EB8&color=0d1117)
   ![Blender3D](https://img.shields.io/badge/Blender3D-12456c?style=flat-square&logo=Blender&labelColor=12456c&logoColor=EA7600&color=0d1117)
   ![Godot Game Engine](https://img.shields.io/badge/Godot-001f3f?style=flat-square&logo=godotengine&labelColor=001f3f&logoColor=4B8BF4&color=0d1117)
