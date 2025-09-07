@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="80" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
 </div>
 
 <!-- <div align="right">
@@ -31,13 +31,17 @@
 
   #### Currently…
 
-  - Working on some personal projects
+  - Working on some personal projects  
+    <!-- [![](https://svg.bookmark.style/api?url= &mode=light&style=horizontal)]() -->
+    [![Godot Source Code Obfuscator](https://svg.bookmark.style/api?url=https://github.com/June-Tree/Godot-Source-Code-Obfuscator&mode=dark&style=horizontal)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator)
+    <!-- [![](https://svg.bookmark.style/api?url= &mode=light&style=horizontal)]() -->
   - Familiarising myself with the Godot game engine
   - Looking to collaborate on 3D and game dev projects  
   </div>
   
-  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 50%; max-width: 175px;"/>
-  <!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 50%; max-width: 175px;"/> -->
+  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 50%; max-width: 200px;"/>
+  <!-- 175px -->
+  <!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 50%; max-width: 300px;"/> -->
   <!-- padding-top: 60px; -->
 </div>
 </div>
@@ -50,10 +54,10 @@
 
 | S/N | Project Name | Description | Link | Language(s) | Applicable software |
 | :-- | :----------- | :---------- | :--: | :---------- | :------------------ |
-| 1 | Godot Source Code Obfuscator | A tool that transforms Godot game scripts into a less readable format to enhance security. | <a href="https://github.com/June-Tree/Godot-Source-Code-Obfuscator"><img src="https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff" alt="Repository directory"></a> | Python | ... |
-| 2 | Geometry Node-based Procedural 3D prop pack | A library of adjustable props for modern photography and 3D rendering. | <a href="https://stonara3d.gumroad.com/l/procedural_props"><img src="https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff" alt="Asset store"></a> | ... | Blender |
-| 3 | Geometry Node-based Rainfall Generator | A model with adjustable parameters for non-destructive control of droplet appearance, speed, and structure. | <a href="https://stonara3d.gumroad.com/l/procedural_rainfall"><img src="https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff" alt="Asset store"></a> | ... | Blender |
-| 4 | Geometry Node-based Rock Generator | A procedural 3D rock model with adjustable parameters for non-destructive, unique control over appearance. | <a href="https://stonara3d.gumroad.com/l/rock_generator"><img src="https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff" alt="Asset store"></a> | ... | Blender |
+| 1 | Godot Source Code Obfuscator | A tool that transforms Godot game scripts into a less readable format to enhance security. | [![Repository directory](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator) | Python | ... |
+| 2 | Geometry Node-based Procedural 3D prop pack | A library of adjustable props for modern photography and 3D rendering. | [![Asset store](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/procedural_props) | ... | Blender |
+| 3 | Geometry Node-based Rainfall Generator | A model with adjustable parameters for non-destructive control of droplet appearance, speed, and structure. | [![Asset store](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/procedural_rainfall) | ... | Blender |
+| 4 | Geometry Node-based Rock Generator | A procedural 3D rock model with adjustable parameters for non-destructive, unique control over appearance. | [![Asset store](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/rock_generator) | ... | Blender |
 | 5 | My first video game (the name hasn't been decided on yet lol) | ... | ... | GDScript, C++ | ... |
 
 <!-- ### 📌 Pinned Repositories
@@ -66,7 +70,7 @@
 
 ___
 
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>&nbsp;Skills
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>&nbsp;Skills and Technologies
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15px">&nbsp;&nbsp;Languages
 
@@ -137,5 +141,5 @@ ___
 </h3>
 
 <div align="center">
-<img width="100%" height="80" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
