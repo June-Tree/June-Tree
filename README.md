@@ -18,7 +18,7 @@
 
   [![LinkedIn](https://img.icons8.com/?size=20&id=34349&format=png&color=ffffff)](https://www.linkedin.com/in/soniaonyeukwu)
   ![|](https://img.icons8.com/?size=20&id=118835&format=png&color=ffffff)
-  [![Asset store](https://img.icons8.com/?size=20&id=121367&format=png&color=ffffff)](https://stonara3d.gumroad.com/)  
+  [![Asset store](https://img.icons8.com/?size=20&id=121367&format=png&color=ffffff)](https://stonara3d.gumroad.com)  
   [![Other Links](https://img.icons8.com/?size=20&id=7867&format=png&color=ffffff)](https://linktr.ee/stonara)
   
 </div>
@@ -33,7 +33,6 @@ ___
 #### Currently…
 
 - Working on some personal projects  
-  <!-- [![](https://svg.bookmark.style/api?url=_&mode=light&style=horizontal)]() -->
   [![Godot source code obfuscator](https://svg.bookmark.style/api?url=https://github.com/June-Tree/Godot-Source-Code-Obfuscator&mode=dark&style=horizontal)](https://github.com/June-Tree/Godot-Source-Code-Obfuscator)
   <!-- [![Geometry node-based callout text generator](https://svg.bookmark.style/api?url=https://stonara3d.gumroad.com/l/callout_generator&mode=dark&style=horizontal)](https://stonara3d.gumroad.com/l/callout_generator) -->
 - Familiarising myself with the Godot game engine
@@ -50,9 +49,6 @@ ___
   </div>
   
   <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="GIF" style="padding-top: 0px; flex: 1; height: 100%; width: 30%; max-width: 80px;"/>
-  <!-- 175px -->
-  <!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="padding-top: 25px; flex: 1; text-align: right; height: 100%; width: 50%; max-width: 300px; display: block; margin: auto;"/> -->
-  <!-- padding-top: 60px; -->
 </div>
 
 
