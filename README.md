@@ -59,7 +59,7 @@ ___
 | 2 | Geometry Node-based Procedural 3D prop pack | A library of adjustable props for modern photography and 3D rendering. | [![3D Asset](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/procedural_props) | ... | Blender |
 | 3 | Geometry Node-based Rainfall Generator | A model with adjustable parameters for non-destructive control of droplet appearance, speed, and structure. | [![3D Asset](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/procedural_rainfall) | ... | Blender |
 | 4 | Geometry Node-based Rock Generator | A procedural 3D rock model with adjustable parameters for non-destructive, unique control over appearance. | [![3D Asset](https://img.icons8.com/?size=20&id=82787&format=png&color=ffffff)](https://stonara3d.gumroad.com/l/rock_generator) | ... | Blender |
-| 5 | My first video game (the name hasn't been decided on yet lol) | ... | ... | GDScript, C++ | ... |
+<!--| 5 | My first video game (the name hasn't been decided on yet lol) | ... | ... | GDScript, C++ | ... | -->
 
 <!-- ### 📌 Pinned Repositories
 
@@ -71,7 +71,7 @@ ___
 
 ___
 
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>&nbsp;Skills and Technologies
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>&nbsp;Skills & Technologies
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15px">&nbsp;&nbsp;Languages
 
@@ -88,7 +88,7 @@ ___
 &nbsp;
   <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=June-Tree&hide=html,css,javascript&theme=transparent&layout=compact&hide_border=true" alt="Most Used GitHub Languages">
   
-  #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15px">&nbsp;&nbsp;Frameworks
+  #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15px">&nbsp;&nbsp;Frameworks & Libraries
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![OpenGL](https://img.shields.io/badge/OpenGL-ddd?style=flat-square&logo=opengl&labelColor=%23000000&logoColor=007CBA&color=0d1117)
@@ -101,7 +101,7 @@ ___
   ![Computer Networking](https://img.shields.io/badge/Computer_Networking-0d1117?style=flat-square)
   ![Web Security](https://img.shields.io/badge/Web_Security-0d1117?style=flat-square) -->
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="15px"/>&nbsp;&nbsp;Software and Tools
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="15px"/>&nbsp;&nbsp;Software & Tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-0076B8?style=flat-square&labelColor=0076B8&color=0d1117)
